@@ -1,0 +1,14 @@
+{
+  "accounts": {
+    "4000": "SalesWork",
+    "4100": "InternalWork"
+  },
+  "costCenters": {
+    "CC10": "Consulting",
+    "CC20": "Support"
+  },
+  "defaults": {
+    "costCenter": "CC20",
+    "account": "4000"
+  }
+}

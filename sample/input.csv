@@ -1,0 +1,5 @@
+external_id,date,employee_id,employee_name,job_id,hours,hourly_rate,account,cost_center,description
+EXT-001,2026-01-10,8144,Hanna Jussila,JOB-100,7,85,4000,CC10,Asiakastyö
+EXT-002,10.01.2026,8144,Hanna Jussila,JOB-100,1,85,4000,CC10,Lisätyö
+EXT-003,2026/01/11,9999,Test Person,JOB-200,abc,80,4000,CC99,Väärä tunti
+EXT-004,2026-01-12,1111,,JOB-300,2,80,9999,,Puuttuva nimi + mapping
